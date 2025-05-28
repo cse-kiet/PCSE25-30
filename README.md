@@ -1,12 +1,12 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: [CARDIOVASCULAR DISEASE PREDICTION]
 
 ## Team Members:
-1. KARAN VERMA
+1. KARAN VERMA 
 2. RANJAN PANDEY
 3. NAMAN NIMESH
 
 ## Steps for Execution:
-1. Download the dataset from the Dataset folder.
+1. Download the dataset from the Database folder.
 2. Extract Features using GLCM, HOG and LBP techniques.
 3. Train and Test the Models using the features extracted.
 
@@ -18,5 +18,4 @@
 5. Final Presentation
 6. Source Code
 7. Database dump (.sql file)
-8. If a web project, then a Docker file for deployment
-9. README (This file)
+8. README (This file)
